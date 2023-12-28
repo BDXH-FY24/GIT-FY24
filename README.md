@@ -12,4 +12,12 @@ change readme in github
 
 just try if it works without git add and commit.
 
-git pull to update local repository with github's repository
+### git pull to update local repository with github's repository
+change read for the 7th time
+
+
+
+
+
+
+
