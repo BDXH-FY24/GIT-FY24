@@ -1,4 +1,4 @@
-
+###
 
 2nd changes
 
@@ -15,7 +15,8 @@ change readme in github
 ## git pull to update local repository with github's repository
 change read for the 7th time
 
-
+### Dependencies
+Mothur v1.48
 
 
 
